@@ -6,6 +6,8 @@
 3. Food Website Project
 
 ## Certifications 
+1. HTML5 - Compleated
+2. CSS   - In Progress
 
 ## Task APP Project 
 
