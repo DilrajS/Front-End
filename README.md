@@ -6,9 +6,11 @@
 3. Food Website Project
 
 ## Certifications 
-1. HTML5 - Compleated
+1. HTML5 - Completed  
 2. CSS   - In Progress
 
+![HTML5-Certification-DilrajSandhu](Certificates/HTML5.jpg)
+ 
 ## Task APP Project 
 
 ## Food Website Project 
@@ -17,9 +19,9 @@ Utilized HTML, CSS & a bit of JavaScript to create a website layout that works o
  2. Tablet
  3. PC  
  #### Phone  
-![Phone.png](Food/FoodWebsitePrev/iPhone.png)
+![iPhone.png](Food/FoodWebsitePrev/iPhone.png)
 #### Tablet  
-![Tablet.png](Food/FoodWebsitePrev/iPad.png) 
+![iPad.png](Food/FoodWebsitePrev/iPad.png) 
 #### PC  
 ![PC.png](Food/FoodWebsitePrev/PC.png) 
 
