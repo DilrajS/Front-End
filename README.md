@@ -1,11 +1,11 @@
 # Front-End
 
 ## Table of Contents
-1. Certifications 
+1. Certificates 
 2. Task App Project
 3. Food Website Project
 
-## Certifications 
+## Certificates 
 1. HTML5 - Completed  
 2. CSS   - In Progress
 
