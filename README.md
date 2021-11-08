@@ -17,14 +17,14 @@ Utilized HTML, CSS & a bit of JavaScript to create a mobile first website design
  2. Tablet
  3. PC  
 
-### Phone view
+### 1. Phone view
 ![iPhone.png](TaskApp/TaskAppPrev/iPhone.png)
 ![iPhone-Menu.png](TaskApp/TaskAppPrev/iPhoneMenu.png)  
 
-### Tablet view
+### 2. Tablet view
 ![Tablet.png](TaskApp/TaskAppPrev/Tablet.png)  
 
-### PC view 
+### 3. PC view 
 ![PC.png](TaskApp/TaskAppPrev/PC.png)
  
 
