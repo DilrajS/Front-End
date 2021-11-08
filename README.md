@@ -12,6 +12,21 @@
 ![HTML5-Certification-DilrajSandhu](Certificates/HTML5.jpg)
  
 ## Task App Project 
+Utilized HTML, CSS & a bit of JavaScript to create a mobile first website design. 
+ 1. Phone/Mobile 
+ 2. Tablet
+ 3. PC  
+
+### Phone view
+![iPhone.png](TaskApp/TaskAppPrev/iPhone.png)
+![iPhone-Menu.png](TaskApp/TaskAppPrev/iPhoneMenu.png)  
+
+### Tablet view
+![Tablet.png](TaskApp/TaskAppPrev/Tablet.png)  
+
+### PC view 
+![PC.png](TaskApp/TaskAppPrev/PC.png)
+ 
 
 ## Food Website Project 
 _(Located in the Food Folder)_  
