@@ -14,7 +14,8 @@
 ## Task APP Project 
 
 ## Food Website Project 
-_(Located in the Food Folder)_
+_(Located in the Food Folder)_  
+
 Utilized HTML, CSS & a bit of JavaScript to create a website layout that works on multiple devices.
  1. Phone/Mobile 
  2. Tablet
