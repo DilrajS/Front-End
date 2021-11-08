@@ -12,7 +12,7 @@
 ![HTML5-Certification-DilrajSandhu](Certificates/HTML5.jpg)
  
 ## Task App Project 
-Utilized HTML, CSS & a bit of JavaScript to create a mobile first website design. 
+Utilized HTML, CSS & a bit of JavaScript to create an amazing mobile-first, responsive, adaptive experiences website design.
  1. Phone/Mobile 
  2. Tablet
  3. PC  
