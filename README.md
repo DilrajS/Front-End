@@ -16,17 +16,18 @@ Utilized HTML, CSS & a bit of JavaScript to create a mobile first website design
  1. Phone/Mobile 
  2. Tablet
  3. PC  
-
+---------------------------------------
 ### 1. Phone view
 ![iPhone.png](TaskApp/TaskAppPrev/iPhone.png)
 ![iPhone-Menu.png](TaskApp/TaskAppPrev/iPhoneMenu.png)  
-
+---------------------------------------
 ### 2. Tablet view
-![Tablet.png](TaskApp/TaskAppPrev/Tablet.png)  
-
+![Tablet.png](TaskApp/TaskAppPrev/Tablet.png)   
+---------------------------------------
 ### 3. PC view 
-![PC.png](TaskApp/TaskAppPrev/PC.png)
- 
+![PC.png](TaskApp/TaskAppPrev/PC.png)  
+--------------------------------------- 
+---------------------------------------
 
 ## Food Website Project 
 _(Located in the Food Folder)_  
