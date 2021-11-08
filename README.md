@@ -11,7 +11,7 @@
 
 ![HTML5-Certification-DilrajSandhu](Certificates/HTML5.jpg)
  
-## Task APP Project 
+## Task App Project 
 
 ## Food Website Project 
 _(Located in the Food Folder)_  
